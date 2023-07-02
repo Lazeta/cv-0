@@ -1,3 +1,1 @@
-# CV
-Biography about myself
-## https://lazeta/github.io/CV/
+# https://lazeta.github.io/cv-0/
